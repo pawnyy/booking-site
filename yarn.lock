@@ -3358,6 +3358,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@react-buddy/ide-toolbox@npm:^2.4.0":
+  version: 2.4.0
+  resolution: "@react-buddy/ide-toolbox@npm:2.4.0"
+  peerDependencies:
+    react: ^17.0.0 || ^18.0.0
+  checksum: 10c0/39df73bef375f9e5b87bf122132034408dc6382c3d8e2f7fb6899ac554b333b6f47553a98e90072ebacc9098816f71e82e06f78af5890d0af2f723ec3b18c5d0
+  languageName: node
+  linkType: hard
+
 "@remix-run/router@npm:1.16.1":
   version: 1.16.1
   resolution: "@remix-run/router@npm:1.16.1"
@@ -9939,6 +9948,7 @@ __metadata:
   dependencies:
     "@mantine/core": "npm:7.11.1"
     "@mantine/hooks": "npm:7.11.1"
+    "@react-buddy/ide-toolbox": "npm:^2.4.0"
     "@storybook/addon-essentials": "npm:^8.1.10"
     "@storybook/addon-interactions": "npm:^8.1.10"
     "@storybook/addon-links": "npm:^8.1.10"
